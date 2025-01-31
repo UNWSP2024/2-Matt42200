@@ -1,0 +1,8 @@
+def main():
+    print("Name: Matt Anderson")
+    print("Address: 123 Fake Lane, Cool City, MN 11111")
+    print("Phone: (555) 123-4567")
+    print("College Major: Undecided")
+
+if __name__ == "__main__":
+    main()

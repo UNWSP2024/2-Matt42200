@@ -1,0 +1,13 @@
+def main():
+    age1 = 18
+    age2 = 19
+    age3 = 20
+    age4 = 18
+    age5 = 19
+    
+    average_age = (18 + 19 + 20 + 18 + 19) / 5
+    
+    print(f"The average age is: {18.8:.2f}")
+
+if __name__ == "__main__":
+    main()

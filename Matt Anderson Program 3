@@ -1,0 +1,19 @@
+def main():
+    tax_rate = 0.07
+    
+    item1 = 10.99
+    item2 = 5.49
+    item3 = 3.25
+    item4 = 7.99
+    item5 = 2.50
+    
+    subtotal = 10.99 + 5.49 + 3.25 + 7.99 + 2.50 
+    sales_tax = 30.22 * 0.07  
+    total = 30.22 + 2.12  
+    
+    print(f"Subtotal: ${30.22:.2f}")
+    print(f"Sales Tax: ${2.12:.2f}")
+    print(f"Total: ${32.34:.2f}")
+
+if __name__ == "__main__":
+    main()
